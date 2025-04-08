@@ -1,21 +1,21 @@
 [
     {
         "Name": "RPG Tycoon Fight",
-        "PlaceId": "14219377144",
+        "PlaceId": 14219377144,
         "Thumbnail": "rbxassetid://72275096618875",
         "Snapshot": "rbxassetid://85224053099078"
     },
 
     {
         "Name": "Candy Store (Obby)",
-        "PlaceId": "16099034841",
+        "PlaceId": 16099034841,
         "Thumbnail": "rbxassetid://70613185850439",
         "Snapshot": "rbxassetid://98578675744858"
     },
     
     {
         "Name": "Find The Code",
-        "PlaceId": "16254969795",
+        "PlaceId": 16254969795,
         "Thumbnail": "rbxassetid://88850139787896",
         "Snapshot": "rbxassetid://86486917259779"
     }
